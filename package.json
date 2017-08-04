@@ -1,0 +1,15 @@
+{
+  "name": "express",
+  "description": "http + express 模拟数据服务器",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "server": "node server/server.js"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
